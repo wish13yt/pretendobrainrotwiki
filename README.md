@@ -2,5 +2,5 @@
 <br>
 We are committed to making Pretendo Brainrot Wiki as open as possible.
 That's why we are now uploading all edits to this GitHub repo.
-Files are manually reviewed and made, so be patient.
+Files are manually created, so some stuff may be out of date!
 https://pretendobrainrot.miraheze.org/wiki/Main_Page
