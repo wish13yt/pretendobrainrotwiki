@@ -26,7 +26,24 @@
     "drafts",
     "mobilefrontend",
     "thanks",
-    "bluesky"
+    "3d",
+    "embedvideo",
+    "pagedtiffhandler",
+    "mediaspoiler",
+    "timedmediahandler",
+    "createpage",
+    "shortdescription",
+    "pdfhandler",
+    "articleratings",
+    "pwa",
+    "realme",
+    "share",
+    "socialprofile",
+    "wikilove",
+    "commentbox",
+    "deleteuserpages",
+    "newsignuppage",
+    "refreshed"
   ],
   "settings": {
     "wgAbuseFilterActions": {
@@ -53,13 +70,21 @@
       "ogg",
       "pdf",
       "png",
+      "stl",
       "svg",
       "webp"
     ],
     "wgTwitterCardType": "summary",
     "wgLogo": "https://static.miraheze.org/pretendobrainrotwiki/d/d7/Pretendo_Brainrot_Wiki.png",
     "wgFavicon": "https://static.miraheze.org/pretendobrainrotwiki/d/d7/Pretendo_Brainrot_Wiki.png",
-    "wgAllowCopyUploads": true
+    "wgAllowCopyUploads": true,
+    "wgCommentsSortDescending": true,
+    "wgAmericanDates": true,
+    "wgCommentsInRecentChanges": true,
+    "wgShareReddit": true,
+    "wgDefaultSkin": "timeless",
+    "wgUserBoard": true,
+    "wgShareUseButtons": true
   },
   "namespaces": {
     "\u003CMain\u003E": {
@@ -308,6 +333,7 @@
         "centralauth-merge",
         "oathauth-enable",
         "comment",
+        "viewsharelinks",
         "autocreateaccount",
         "read",
         "oathauth-enable",
@@ -332,7 +358,8 @@
         "mwoauthupdateownconsumer",
         "skipcaptcha",
         "createaccount",
-        "commentlinks"
+        "commentlinks",
+        "transcode-reset"
       ],
       "addgroups": [],
       "removegroups": [],
@@ -462,6 +489,16 @@
       "removeself": [],
       "autopromote": null
     },
+    "reviewer": {
+      "permissions": [
+        "change-rating"
+      ],
+      "addgroups": [],
+      "removegroups": [],
+      "addself": [],
+      "removeself": [],
+      "autopromote": null
+    },
     "rollbacker": {
       "permissions": [
         "rollback"
@@ -540,7 +577,13 @@
         "handle-reports",
         "upwizcampaigns",
         "mass-upload",
-        "commentadmin"
+        "commentadmin",
+        "transcode-reset",
+        "transcode-status",
+        "awardsmanage",
+        "giftadmin",
+        "avatarremove",
+        "editothersprofiles"
       ],
       "addgroups": [
         "autopatrolled",
@@ -601,6 +644,7 @@
         "sfsblock-bypass",
         "purge",
         "report",
+        "viewsharelinks",
         "mwoauthmanagemygrants",
         "user"
       ],
