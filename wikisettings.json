@@ -7,8 +7,6 @@
     "codemirror",
     "darkmode",
     "globaluserpage",
-    "minervaneue",
-    "mobilefrontend",
     "purge",
     "syntaxhighlight_geshi",
     "templatestyles",
@@ -16,9 +14,19 @@
     "urlshortener",
     "wikiseo",
     "visualeditor",
-    "moderation",
     "adminlinks",
-    "protectsite"
+    "protectsite",
+    "googlenewssitemap",
+    "report",
+    "minervaneue",
+    "pageimages",
+    "simplebatchupload",
+    "uploadwizard",
+    "comments",
+    "drafts",
+    "mobilefrontend",
+    "thanks",
+    "bluesky"
   ],
   "settings": {
     "wgAbuseFilterActions": {
@@ -234,6 +242,28 @@
       "aliases": [],
       "additional": []
     },
+    "Campaign": {
+      "id": "460",
+      "core": false,
+      "searchable": false,
+      "subpages": false,
+      "content": false,
+      "contentmodel": "Campaign",
+      "protection": "upwizcampaigns",
+      "aliases": [],
+      "additional": []
+    },
+    "Campaign_talk": {
+      "id": "461",
+      "core": false,
+      "searchable": false,
+      "subpages": false,
+      "content": false,
+      "contentmodel": "wikitext",
+      "protection": false,
+      "aliases": [],
+      "additional": []
+    },
     "Module": {
       "id": "828",
       "core": true,
@@ -277,6 +307,7 @@
         "autocreateaccount",
         "centralauth-merge",
         "oathauth-enable",
+        "comment",
         "autocreateaccount",
         "read",
         "oathauth-enable",
@@ -300,7 +331,8 @@
         "mwoauthproposeconsumer",
         "mwoauthupdateownconsumer",
         "skipcaptcha",
-        "createaccount"
+        "createaccount",
+        "commentlinks"
       ],
       "addgroups": [],
       "removegroups": [],
@@ -378,6 +410,16 @@
         "sysop",
         "interface-admin"
       ],
+      "addself": [],
+      "removeself": [],
+      "autopromote": null
+    },
+    "commentadmin": {
+      "permissions": [
+        "commentadmin"
+      ],
+      "addgroups": [],
+      "removegroups": [],
       "addself": [],
       "removeself": [],
       "autopromote": null
@@ -494,22 +536,38 @@
         "skip-moderation",
         "skip-move-moderation",
         "moderation",
-        "adminlinks"
+        "adminlinks",
+        "handle-reports",
+        "upwizcampaigns",
+        "mass-upload",
+        "commentadmin"
       ],
       "addgroups": [
         "autopatrolled",
         "confirmed",
         "rollbacker",
         "automoderated",
-        "moderator"
+        "moderator",
+        "upwizcampeditors"
       ],
       "removegroups": [
         "autopatrolled",
         "confirmed",
         "rollbacker",
         "automoderated",
-        "moderator"
+        "moderator",
+        "upwizcampeditors"
       ],
+      "addself": [],
+      "removeself": [],
+      "autopromote": null
+    },
+    "upwizcampeditors": {
+      "permissions": [
+        "upwizcampaigns"
+      ],
+      "addgroups": [],
+      "removegroups": [],
       "addself": [],
       "removeself": [],
       "autopromote": null
@@ -542,6 +600,7 @@
         "torunblocked",
         "sfsblock-bypass",
         "purge",
+        "report",
         "mwoauthmanagemygrants",
         "user"
       ],
