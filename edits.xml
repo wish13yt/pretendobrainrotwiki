@@ -24,8 +24,14 @@
       <namespace key="13" case="first-letter">Help talk</namespace>
       <namespace key="14" case="first-letter">Category</namespace>
       <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="200" case="first-letter">UserWiki</namespace>
+      <namespace key="201" case="first-letter">UserWiki talk</namespace>
+      <namespace key="202" case="first-letter">User profile</namespace>
+      <namespace key="203" case="first-letter">User profile talk</namespace>
       <namespace key="460" case="first-letter">Campaign</namespace>
       <namespace key="461" case="first-letter">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
       <namespace key="828" case="first-letter">Module</namespace>
       <namespace key="829" case="first-letter">Module talk</namespace>
     </namespaces>
@@ -416,6 +422,53 @@ Please read the [[rules]] before contributing to this wiki.
 
 '''This wiki is unofficial and ran by Wish (PNID: Wishdog).'''</text>
       <sha1>qjshd9bp6cj3ughtizmol0d326u144q</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2024-07-17T16:41:20Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="483" sha1="eqex13zlz10cwq2xc68tjyqfsjksmd2" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}} Wiki! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish (PNID: Wishdog).'''</text>
+      <sha1>eqex13zlz10cwq2xc68tjyqfsjksmd2</sha1>
+    </revision>
+    <revision>
+      <id>40</id>
+      <parentid>39</parentid>
+      <timestamp>2024-07-17T17:50:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Wish13|Wish13]] ([[User talk:Wish13|talk]]) to last revision by [[User:Feverfew|Feverfew]]</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
     </revision>
   </page>
   <page>
@@ -861,6 +914,25 @@ By creating a page, commenting, or performing any action on this Wiki, you agree
 Rules may update at any time. Please check them before making a new page.</text>
       <sha1>aiy0nggo6mn1kn0lqkt1tls4phuqvdj</sha1>
     </revision>
+    <revision>
+      <id>41</id>
+      <parentid>22</parentid>
+      <timestamp>2024-07-17T22:30:41Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="hh05xvq5zu6ddyf0ql298xi8v5epv2i" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. .
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>hh05xvq5zu6ddyf0ql298xi8v5epv2i</sha1>
+    </revision>
   </page>
   <page>
     <title>File:Pretendo Brainrot Wiki.png</title>
@@ -894,53 +966,148 @@ Rules may update at any time. Please check them before making a new page.</text>
     </upload>
   </page>
   <page>
-    <title>Talk:Main Page</title>
-    <ns>1</ns>
-    <id>19</id>
+    <title>Spongebob Boing</title>
+    <ns>0</ns>
+    <id>20</id>
     <revision>
-      <id>35</id>
-      <timestamp>2024-07-17T14:31:12Z</timestamp>
+      <id>42</id>
+      <timestamp>2024-07-17T22:32:06Z</timestamp>
       <contributor>
         <username>Wish13</username>
         <id>2</id>
       </contributor>
-      <comment>Created page with "discussion page !! how coolio"</comment>
-      <origin>35</origin>
+      <comment>Created page with "Spongebob Boing is a meme started by Jules."</comment>
+      <origin>42</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="29" sha1="1gw40yyijodrxxykvsbual7xfxvljyp" xml:space="preserve">discussion page !!
-how coolio</text>
-      <sha1>1gw40yyijodrxxykvsbual7xfxvljyp</sha1>
+      <text bytes="43" sha1="ag7f5qa81npr0hkblp26sphoeflvdh6" xml:space="preserve">Spongebob Boing is a meme started by Jules.</text>
+      <sha1>ag7f5qa81npr0hkblp26sphoeflvdh6</sha1>
     </revision>
     <revision>
-      <id>36</id>
-      <parentid>35</parentid>
-      <timestamp>2024-07-17T14:31:57Z</timestamp>
+      <id>45</id>
+      <parentid>42</parentid>
+      <timestamp>2024-07-17T22:34:50Z</timestamp>
       <contributor>
         <username>Wish13</username>
         <id>2</id>
       </contributor>
-      <origin>36</origin>
+      <origin>45</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="39" sha1="i2diinpf6anznefltnhco4ygmyro5ue" xml:space="preserve">talking is not supported on dis page !!</text>
-      <sha1>i2diinpf6anznefltnhco4ygmyro5ue</sha1>
+      <text bytes="128" sha1="2uievc4pu31qhlu4xdrcsbhrnloxmto" xml:space="preserve">[[File:Spongebob Boing.png|thumb]]
+[[File:GIF Spongebob Boing.png|thumb]]
+Spongebob Boing is a meme started by Jules and Lenyet.</text>
+      <sha1>2uievc4pu31qhlu4xdrcsbhrnloxmto</sha1>
     </revision>
     <revision>
-      <id>37</id>
-      <parentid>36</parentid>
-      <timestamp>2024-07-17T14:32:08Z</timestamp>
+      <id>47</id>
+      <parentid>45</parentid>
+      <timestamp>2024-07-17T22:38:04Z</timestamp>
       <contributor>
         <username>Wish13</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>Protected "[[Talk:Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
-      <origin>36</origin>
+      <origin>47</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="39" sha1="i2diinpf6anznefltnhco4ygmyro5ue" xml:space="preserve">talking is not supported on dis page !!</text>
-      <sha1>i2diinpf6anznefltnhco4ygmyro5ue</sha1>
+      <text bytes="169" sha1="7s2x680eswcwl66keldl3ccng99uyal" xml:space="preserve">[[File:Spongebob Boing.png|thumb]]
+[[File:GIF Spongebob Boing.png|thumb]]
+[[File:Spongebob Boing GIF 2.gif|thumb]]
+Spongebob Boing is a meme started by Jules and Lenyet.</text>
+      <sha1>7s2x680eswcwl66keldl3ccng99uyal</sha1>
     </revision>
+  </page>
+  <page>
+    <title>File:Spongebob Boing.png</title>
+    <ns>6</ns>
+    <id>21</id>
+    <revision>
+      <id>43</id>
+      <timestamp>2024-07-17T22:33:47Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16" sha1="sv74k7oxg5h07b3zwfiuniwpn3rjxwk" xml:space="preserve">OG Post by Jules</text>
+      <sha1>sv74k7oxg5h07b3zwfiuniwpn3rjxwk</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:33:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Spongebob_Boing.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/8/82/Spongebob_Boing.png</src>
+      <size>30233</size>
+      <sha1base36>tmp918613qrrtztqr4zh3937m8m7zlz</sha1base36>
+      <rel>8/82/Spongebob_Boing.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:GIF Spongebob Boing.png</title>
+    <ns>6</ns>
+    <id>22</id>
+    <revision>
+      <id>44</id>
+      <timestamp>2024-07-17T22:34:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="70u01mqa230fwu1xvzat6086lci8b6v" xml:space="preserve">The Spongebob Boing gif</text>
+      <sha1>70u01mqa230fwu1xvzat6086lci8b6v</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:34:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>GIF_Spongebob_Boing.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/9c/GIF_Spongebob_Boing.png</src>
+      <size>110594</size>
+      <sha1base36>lx5q05blez89fbfjoe99ynzh1zl4cs0</sha1base36>
+      <rel>9/9c/GIF_Spongebob_Boing.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Spongebob Boing GIF 2.gif</title>
+    <ns>6</ns>
+    <id>23</id>
+    <revision>
+      <id>46</id>
+      <timestamp>2024-07-17T22:37:59Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13" sha1="adj980vi97xu8nrwtwkugcyq0u526av" xml:space="preserve">Credit: Dylan</text>
+      <sha1>adj980vi97xu8nrwtwkugcyq0u526av</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:37:59Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Spongebob_Boing_GIF_2.gif</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/93/Spongebob_Boing_GIF_2.gif</src>
+      <size>1501381</size>
+      <sha1base36>7ziiu7x5j1fobtr2w8juqeptl4ivoo0</sha1base36>
+      <rel>9/93/Spongebob_Boing_GIF_2.gif</rel>
+    </upload>
   </page>
 </mediawiki>
