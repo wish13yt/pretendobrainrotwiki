@@ -24,6 +24,8 @@
       <namespace key="13" case="first-letter">Help talk</namespace>
       <namespace key="14" case="first-letter">Category</namespace>
       <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="460" case="first-letter">Campaign</namespace>
+      <namespace key="461" case="first-letter">Campaign talk</namespace>
       <namespace key="828" case="first-letter">Module</namespace>
       <namespace key="829" case="first-letter">Module talk</namespace>
     </namespaces>
@@ -277,6 +279,143 @@ Please read the rules by clicking [[Rules|here]] or clicking this link https://p
 
 '''This wiki is unofficial and ran by Wish.'''</text>
       <sha1>9g0cfotc546xjnzrs9mjsrdq3qa87qc</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2024-07-17T13:26:24Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="jzjqzp67jbt3hkb98nxyk9ke8ec4m5t" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks [[User:Feverfew|Feverfew]] for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information or to view information.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>jzjqzp67jbt3hkb98nxyk9ke8ec4m5t</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2024-07-17T13:27:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" sha1="e15o3q8oc8y4kc0nr8osiiflaxnsuu7" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks [[User:Feverfew|Feverfew]] for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>e15o3q8oc8y4kc0nr8osiiflaxnsuu7</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2024-07-17T13:32:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="522" sha1="0kgl32bs8iy1of3op5oys5tbgdipad3" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>0kgl32bs8iy1of3op5oys5tbgdipad3</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2024-07-17T13:44:22Z</timestamp>
+      <contributor>
+        <username>Feverfew</username>
+        <id>5</id>
+      </contributor>
+      <minor/>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2024-07-17T14:02:03Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>34</parentid>
+      <timestamp>2024-07-17T16:24:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" sha1="qjshd9bp6cj3ughtizmol0d326u144q" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish (PNID: Wishdog).'''</text>
+      <sha1>qjshd9bp6cj3ughtizmol0d326u144q</sha1>
     </revision>
   </page>
   <page>
@@ -753,5 +892,55 @@ Rules may update at any time. Please check them before making a new page.</text>
       <sha1base36>o9t9kat4tlbde0yvhn1sclgphcdxxz9</sha1base36>
       <rel>d/d7/Pretendo_Brainrot_Wiki.png</rel>
     </upload>
+  </page>
+  <page>
+    <title>Talk:Main Page</title>
+    <ns>1</ns>
+    <id>19</id>
+    <revision>
+      <id>35</id>
+      <timestamp>2024-07-17T14:31:12Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "discussion page !! how coolio"</comment>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="1gw40yyijodrxxykvsbual7xfxvljyp" xml:space="preserve">discussion page !!
+how coolio</text>
+      <sha1>1gw40yyijodrxxykvsbual7xfxvljyp</sha1>
+    </revision>
+    <revision>
+      <id>36</id>
+      <parentid>35</parentid>
+      <timestamp>2024-07-17T14:31:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="i2diinpf6anznefltnhco4ygmyro5ue" xml:space="preserve">talking is not supported on dis page !!</text>
+      <sha1>i2diinpf6anznefltnhco4ygmyro5ue</sha1>
+    </revision>
+    <revision>
+      <id>37</id>
+      <parentid>36</parentid>
+      <timestamp>2024-07-17T14:32:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Talk:Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="i2diinpf6anznefltnhco4ygmyro5ue" xml:space="preserve">talking is not supported on dis page !!</text>
+      <sha1>i2diinpf6anznefltnhco4ygmyro5ue</sha1>
+    </revision>
   </page>
 </mediawiki>
