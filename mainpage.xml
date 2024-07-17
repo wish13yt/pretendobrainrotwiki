@@ -1,0 +1,55 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+<siteinfo>
+<sitename>Pretendo Brainrot</sitename>
+<dbname>pretendobrainrotwiki</dbname>
+<base>https://pretendobrainrot.miraheze.org/wiki/Main_Page</base>
+<generator>MediaWiki 1.42.1</generator>
+<case>first-letter</case>
+<namespaces>
+<namespace key="-2" case="first-letter">Media</namespace>
+<namespace key="-1" case="first-letter">Special</namespace>
+<namespace key="0" case="first-letter"/>
+<namespace key="1" case="first-letter">Talk</namespace>
+<namespace key="2" case="first-letter">User</namespace>
+<namespace key="3" case="first-letter">User talk</namespace>
+<namespace key="4" case="first-letter">Pretendo Brainrot</namespace>
+<namespace key="5" case="first-letter">Pretendo Brainrot talk</namespace>
+<namespace key="6" case="first-letter">File</namespace>
+<namespace key="7" case="first-letter">File talk</namespace>
+<namespace key="8" case="first-letter">MediaWiki</namespace>
+<namespace key="9" case="first-letter">MediaWiki talk</namespace>
+<namespace key="10" case="first-letter">Template</namespace>
+<namespace key="11" case="first-letter">Template talk</namespace>
+<namespace key="12" case="first-letter">Help</namespace>
+<namespace key="13" case="first-letter">Help talk</namespace>
+<namespace key="14" case="first-letter">Category</namespace>
+<namespace key="15" case="first-letter">Category talk</namespace>
+<namespace key="460" case="first-letter">Campaign</namespace>
+<namespace key="461" case="first-letter">Campaign talk</namespace>
+<namespace key="828" case="first-letter">Module</namespace>
+<namespace key="829" case="first-letter">Module talk</namespace>
+</namespaces>
+</siteinfo>
+<page>
+<title>Main Page</title>
+<ns>0</ns>
+<id>1</id>
+<revision>
+<id>34</id>
+<parentid>33</parentid>
+<timestamp>2024-07-17T14:02:03Z</timestamp>
+<contributor>
+<username>Wish13</username>
+<id>2</id>
+</contributor>
+<minor/>
+<comment>Protected "[[Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+<origin>33</origin>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__ == Welcome to {{SITENAME}}! == (Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^) We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible. Please read the [[rules]] before contributing to this wiki. '''This wiki is unofficial and ran by Wish.'''</text>
+<sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+</revision>
+</page>
+</mediawiki>
