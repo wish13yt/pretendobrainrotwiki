@@ -84,7 +84,8 @@
     "wgShareReddit": true,
     "wgDefaultSkin": "timeless",
     "wgUserBoard": true,
-    "wgShareUseButtons": true
+    "wgShareUseButtons": true,
+    "wgEmailConfirmToEdit": true
   },
   "namespaces": {
     "\u003CMain\u003E": {
