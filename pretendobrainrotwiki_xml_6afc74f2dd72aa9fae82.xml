@@ -1,0 +1,3034 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Pretendo Brainrot</sitename>
+    <dbname>pretendobrainrotwiki</dbname>
+    <base>https://pretendobrainrot.miraheze.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.42.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Pretendo Brainrot</namespace>
+      <namespace key="5" case="first-letter">Pretendo Brainrot talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="200" case="first-letter">UserWiki</namespace>
+      <namespace key="201" case="first-letter">UserWiki talk</namespace>
+      <namespace key="202" case="first-letter">User profile</namespace>
+      <namespace key="203" case="first-letter">User profile talk</namespace>
+      <namespace key="460" case="first-letter">Campaign</namespace>
+      <namespace key="461" case="first-letter">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2024-07-17T09:19:42Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>1</id>
+      </contributor>
+      <comment>Welcome to Miraheze!</comment>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="0tnrijvmwaw0z2joi2zap7pgj45u9ww" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+This Main Page was created automatically and it seems it hasn't been replaced yet.
+
+=== For the bureaucrat(s) of this wiki ===
+Hello, and welcome to your new wiki! Thank you for choosing Miraheze for the hosting of your wiki, we hope you will enjoy our hosting.
+
+You can immediately start working on your wiki or whenever you want.
+
+Need help? No problem! We will help you with your wiki as needed. To start, try checking out these helpful links:
+* [[mw:Special:MyLanguage/Help:Contents|MediaWiki guide]] (e.g. navigation, editing, deleting pages, blocking users)
+* [[meta:Special:MyLanguage/FAQ|Miraheze FAQ]]
+* [[meta:Special:MyLanguage/Request features|Request settings changes on your wiki]]. (Extensions, Skin and Logo/Favicon changes should be done through [[Special:ManageWiki]] on your wiki, see [[meta:Special:MyLanguage/ManageWiki|ManageWiki]] for more information.)
+
+==== I still don't understand X! ====
+Well, that's no problem. Even if something isn't explained in the documentation/FAQ, we are still happy to help you. You can find us here:
+* [[meta:Special:MyLanguage/Help center|On our own Miraheze wiki]]
+* On [[phorge:|Phorge]]
+* On [https://miraheze.org/discord Discord]
+* On IRC in #miraheze on irc.libera.chat ([irc://irc.libera.chat/%23miraheze direct link]; [https://web.libera.chat/?channel=#miraheze webchat])
+
+=== For visitors of this wiki ===
+Hello, the default Main Page of this wiki (this page) has not yet been replaced by the bureaucrat(s) of this wiki. The bureaucrat(s) might still be working on a Main Page, so please check again later!</text>
+      <sha1>0tnrijvmwaw0z2joi2zap7pgj45u9ww</sha1>
+    </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2024-07-17T12:19:38Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="421" sha1="6r2jlj46ob8ltngaqwxzlkidqo597iw" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click the "ADD NEW PAGE" or "EDIT" button at the top of any page to get started!
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>6r2jlj46ob8ltngaqwxzlkidqo597iw</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2024-07-17T12:19:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="52mtufm6l75f7t2ovyc5jtpu337kdai" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>52mtufm6l75f7t2ovyc5jtpu337kdai</sha1>
+    </revision>
+    <revision>
+      <id>21</id>
+      <parentid>3</parentid>
+      <timestamp>2024-07-17T12:50:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="461" sha1="iighmnxawg9ozf3r4a1e4wcxjilb2ah" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>iighmnxawg9ozf3r4a1e4wcxjilb2ah</sha1>
+    </revision>
+    <revision>
+      <id>24</id>
+      <parentid>21</parentid>
+      <timestamp>2024-07-17T13:09:44Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="503" sha1="031isqiesux7au3bchiztpf3mz662xi" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png|thumb]]
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>031isqiesux7au3bchiztpf3mz662xi</sha1>
+    </revision>
+    <revision>
+      <id>25</id>
+      <parentid>24</parentid>
+      <timestamp>2024-07-17T13:10:02Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="497" sha1="jmfjm5p7z8ebyuqt10ztf82ldjnkvdr" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>jmfjm5p7z8ebyuqt10ztf82ldjnkvdr</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>25</parentid>
+      <timestamp>2024-07-17T13:10:50Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="frord9urc41g8ork2o6uoq5vlaqd3rq" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks Feverfew for making this image for Pretendo Brainrot Wiki! ^-^)
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>frord9urc41g8ork2o6uoq5vlaqd3rq</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>26</parentid>
+      <timestamp>2024-07-17T13:11:45Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="mikxog8rgmcvx6m5lm3gi0crtxg95x5" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks Feverfew for making this image for Pretendo Brainrot Wiki! ^-^)
+
+The Pretendo Brainrot Wiki. Ready to dive into the archives?
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>mikxog8rgmcvx6m5lm3gi0crtxg95x5</sha1>
+    </revision>
+    <revision>
+      <id>28</id>
+      <parentid>27</parentid>
+      <timestamp>2024-07-17T13:12:00Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="jfci9gu0a9lecev54r89pmmoljwyn4j" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+
+
+(Thanks Feverfew for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>jfci9gu0a9lecev54r89pmmoljwyn4j</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>28</parentid>
+      <timestamp>2024-07-17T13:12:48Z</timestamp>
+      <contributor>
+        <username>Feverfew</username>
+        <id>5</id>
+      </contributor>
+      <minor/>
+      <comment>Added link to my (Feverfew's) profile</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="9g0cfotc546xjnzrs9mjsrdq3qa87qc" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+
+
+(Thanks [[User:Feverfew|Feverfew]] for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We're a collaborative community website about Pretendo Brainrot that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. 
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>9g0cfotc546xjnzrs9mjsrdq3qa87qc</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2024-07-17T13:26:24Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="jzjqzp67jbt3hkb98nxyk9ke8ec4m5t" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks [[User:Feverfew|Feverfew]] for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information or to view information.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>jzjqzp67jbt3hkb98nxyk9ke8ec4m5t</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2024-07-17T13:27:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to {{SITENAME}}! */</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" sha1="e15o3q8oc8y4kc0nr8osiiflaxnsuu7" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+[[File:Pretendo Brainrot Wiki.png]]
+(Thanks [[User:Feverfew|Feverfew]] for making this image for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>e15o3q8oc8y4kc0nr8osiiflaxnsuu7</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2024-07-17T13:32:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="522" sha1="0kgl32bs8iy1of3op5oys5tbgdipad3" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+Please read the rules by clicking [[Rules|here]] or clicking this link https://pretendobrainrot.miraheze.org/wiki/Rules.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>0kgl32bs8iy1of3op5oys5tbgdipad3</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2024-07-17T13:44:22Z</timestamp>
+      <contributor>
+        <username>Feverfew</username>
+        <id>5</id>
+      </contributor>
+      <minor/>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2024-07-17T14:02:03Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>34</parentid>
+      <timestamp>2024-07-17T16:24:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" sha1="qjshd9bp6cj3ughtizmol0d326u144q" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish (PNID: Wishdog).'''</text>
+      <sha1>qjshd9bp6cj3ughtizmol0d326u144q</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2024-07-17T16:41:20Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="483" sha1="eqex13zlz10cwq2xc68tjyqfsjksmd2" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}} Wiki! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish (PNID: Wishdog).'''</text>
+      <sha1>eqex13zlz10cwq2xc68tjyqfsjksmd2</sha1>
+    </revision>
+    <revision>
+      <id>40</id>
+      <parentid>39</parentid>
+      <timestamp>2024-07-17T17:50:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Wish13|Wish13]] ([[User talk:Wish13|talk]]) to last revision by [[User:Feverfew|Feverfew]]</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2dp6svi4c53xcc5smc6afggod2cr9lh" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''</text>
+      <sha1>2dp6svi4c53xcc5smc6afggod2cr9lh</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>40</parentid>
+      <timestamp>2024-07-18T13:28:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>New comments</comment>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="568" sha1="lv6rm15me09cca98spcyszifqvkqdy3" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''
+
+== Comments ==
+hi
+&lt;br /&gt;-- [[User:Wish13|Wish13]] ([[User talk:Wish13|talk]]) 13:28, July 18, 2024 (UTC)</text>
+      <sha1>lv6rm15me09cca98spcyszifqvkqdy3</sha1>
+    </revision>
+    <revision>
+      <id>61</id>
+      <parentid>48</parentid>
+      <timestamp>2024-07-21T13:19:02Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="650" sha1="jq0xfpugr4iaf8l9ap4vxovqh6ot6lf" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Pages are under CC-BY-SA unless noted. See more information [[Copyrights|here.]]
+
+Please read the [[rules]] before contributing to this wiki.
+
+'''This wiki is unofficial and ran by Wish.'''
+
+== Comments ==
+hi
+&lt;br /&gt;-- [[User:Wish13|Wish13]] ([[User talk:Wish13|talk]]) 13:28, July 18, 2024 (UTC)</text>
+      <sha1>jq0xfpugr4iaf8l9ap4vxovqh6ot6lf</sha1>
+    </revision>
+    <revision>
+      <id>113</id>
+      <parentid>61</parentid>
+      <timestamp>2024-07-23T23:56:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Welcome to Pretendo Brainrot! */</comment>
+      <origin>113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="693" sha1="t7s3fmqtpnd2hg6y7rtpljanr7k0bn6" xml:space="preserve">__NOTOC__
+== Welcome to {{SITENAME}}! ==
+(Thanks [[User:Feverfew|Feverfew]] for making the icon (in the top left corner) for Pretendo Brainrot Wiki! ^-^)
+
+We are committed to make the Wiki as open as possible. Visit the [https://github.com/wish13yt/pretendobrainrotwiki GitHub] for more information about edits and our mission to be as open as possible.
+
+Pages are under CC-BY-SA unless noted. See more information [[Copyrights|here.]]
+
+Please read the [[rules]] before contributing to this wiki.
+
+View all pages [[Special:AllPages|here]]!
+
+'''This wiki is unofficial and ran by Wish.'''
+
+== Comments ==
+hi
+&lt;br /&gt;-- [[User:Wish13|Wish13]] ([[User talk:Wish13|talk]]) 13:28, July 18, 2024 (UTC)</text>
+      <sha1>t7s3fmqtpnd2hg6y7rtpljanr7k0bn6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Feverfew</title>
+    <ns>2</ns>
+    <id>2</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2024-07-17T12:26:48Z</timestamp>
+      <contributor>
+        <username>Feverfew</username>
+        <id>5</id>
+      </contributor>
+      <comment>Created page with "im feverfew from the pisstendo pisscord and community you already know mii"</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="9fqc57inz9fha96t8ftxjw6gw0c450c" xml:space="preserve">im feverfew from the pisstendo pisscord and community you already know mii</text>
+      <sha1>9fqc57inz9fha96t8ftxjw6gw0c450c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Decryption Key.png</title>
+    <ns>6</ns>
+    <id>3</id>
+    <revision>
+      <id>5</id>
+      <timestamp>2024-07-17T12:27:30Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4" sha1="2b9bmnaut7wjk916nnqs7id89sqvw0y" xml:space="preserve">Meme</text>
+      <sha1>2b9bmnaut7wjk916nnqs7id89sqvw0y</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:27:29Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Decryption_Key.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/a/aa/Decryption_Key.png</src>
+      <size>12929</size>
+      <sha1base36>44f3kr7v9p6rupe6zg3j5c36vjb2seg</sha1base36>
+      <rel>a/aa/Decryption_Key.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:FeverFeud 1.png</title>
+    <ns>6</ns>
+    <id>5</id>
+    <revision>
+      <id>7</id>
+      <timestamp>2024-07-17T12:28:47Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3" sha1="113tlv2j20ks3bd1c969krdf2phrdue" xml:space="preserve">N/A</text>
+      <sha1>113tlv2j20ks3bd1c969krdf2phrdue</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:28:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>FeverFeud_1.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/d/d2/FeverFeud_1.png</src>
+      <size>19114</size>
+      <sha1base36>tfivc3dkkdewcmpyf1o4ke877bqdvar</sha1base36>
+      <rel>d/d2/FeverFeud_1.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Feverfued 3.png</title>
+    <ns>6</ns>
+    <id>6</id>
+    <revision>
+      <id>8</id>
+      <timestamp>2024-07-17T12:29:28Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="iwn6mhyw3jfd596r0qnx0siiv2cdz6z" xml:space="preserve">description being required is SO not sigma</text>
+      <sha1>iwn6mhyw3jfd596r0qnx0siiv2cdz6z</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:29:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Feverfued_3.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/8/8f/Feverfued_3.png</src>
+      <size>51229</size>
+      <sha1base36>s7t02g0b913pkl663tgrb5q3d1efbcc</sha1base36>
+      <rel>8/8f/Feverfued_3.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:FeverFeud.png</title>
+    <ns>6</ns>
+    <id>7</id>
+    <revision>
+      <id>9</id>
+      <timestamp>2024-07-17T12:30:11Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>9</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="9xueb1lr6zlhri80m1a9ug7yh4gjfyw" xml:space="preserve">erm, what the juxt</text>
+      <sha1>9xueb1lr6zlhri80m1a9ug7yh4gjfyw</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:30:10Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>FeverFeud.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/2/24/FeverFeud.png</src>
+      <size>21731</size>
+      <sha1base36>pcum1cew57bcza7qto0h738r1dym91m</sha1base36>
+      <rel>2/24/FeverFeud.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Feverfeud</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>10</id>
+      <timestamp>2024-07-17T12:30:18Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Feverfeud was a feud by the user "superfever3000" under Feverfew. She had a feud with herself.  The feud was started on July 5th, 2024 and ended after an administrator gave her a 1 hour timeout. [[File:FeverFeud 1.png|thumb]] [[File:Feverfued 3.png|thumb]] [[File:FeverFeud.png|thumb]]"</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="tj4xj6432plo75cxrheidwck9jwkfvx" xml:space="preserve">Feverfeud was a feud by the user "superfever3000" under Feverfew. She had a feud with herself.
+
+The feud was started on July 5th, 2024 and ended after an administrator gave her a 1 hour timeout.
+[[File:FeverFeud 1.png|thumb]]
+[[File:Feverfued 3.png|thumb]]
+[[File:FeverFeud.png|thumb]]</text>
+      <sha1>tj4xj6432plo75cxrheidwck9jwkfvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:I ate my shoulder buttons.png</title>
+    <ns>6</ns>
+    <id>9</id>
+    <revision>
+      <id>11</id>
+      <timestamp>2024-07-17T12:36:10Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="rec0ouflgtuxcv8s0xvr6fpx5he5f4r" xml:space="preserve">I ate my shoulder buttons</text>
+      <sha1>rec0ouflgtuxcv8s0xvr6fpx5he5f4r</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:36:09Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>I_ate_my_shoulder_buttons.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/9a/I_ate_my_shoulder_buttons.png</src>
+      <size>204311</size>
+      <sha1base36>5ptpsba7hzxuicufp4xq7jvsdhle4hr</sha1base36>
+      <rel>9/9a/I_ate_my_shoulder_buttons.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>I ate my random electronic</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>12</id>
+      <timestamp>2024-07-17T12:36:16Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with ""I ate my random electronic" is a meme started by [USER UNKNOWN].  It is where someone says "I ate my [insert electronic here]". For example, someone could say "I ate my Wii U".  I ate my shoulder buttons A common follow-up is "It tasted like chips".  Someone else might say "What kind of chips?".  A common answer is "Micro". [[File:I ate my shoulder buttons.png|thumb]]"</comment>
+      <origin>12</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="371" sha1="l3ejaoali0htvpett8bok6xown8b8cf" xml:space="preserve">"I ate my random electronic" is a meme started by [USER UNKNOWN].
+
+It is where someone says "I ate my [insert electronic here]". For example, someone could say "I ate my Wii U".
+
+I ate my shoulder buttons
+A common follow-up is "It tasted like chips".
+
+Someone else might say "What kind of chips?".
+
+A common answer is "Micro".
+[[File:I ate my shoulder buttons.png|thumb]]</text>
+      <sha1>l3ejaoali0htvpett8bok6xown8b8cf</sha1>
+    </revision>
+    <revision>
+      <id>91</id>
+      <parentid>12</parentid>
+      <timestamp>2024-07-23T23:40:47Z</timestamp>
+      <contributor>
+        <username>Rwrv</username>
+        <id>9</id>
+      </contributor>
+      <minor/>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="376" sha1="mhoisns1p8phvxl62lteyku2gn3fp20" xml:space="preserve">"I ate my random electronic" is a meme started by [USER UNKNOWN].
+
+It is where someone says "I ate my [insert electronic here]". For example, someone could say "I ate my Wii U".
+
+A common follow-up to "I ate my shoulder buttons" is "It tasted like chips".
+
+Someone else might say "What kind of chips?".
+
+A common answer is "Micro".
+[[File:I ate my shoulder buttons.png|thumb]]</text>
+      <sha1>mhoisns1p8phvxl62lteyku2gn3fp20</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:VSmile.png</title>
+    <ns>6</ns>
+    <id>11</id>
+    <revision>
+      <id>13</id>
+      <timestamp>2024-07-17T12:39:41Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>13</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="4civchw7a3rn41wegok6uujrcmogbzl" xml:space="preserve">Will Pretendo support the VSmile?</text>
+      <sha1>4civchw7a3rn41wegok6uujrcmogbzl</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:39:40Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>VSmile.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/2/25/VSmile.png</src>
+      <size>20106</size>
+      <sha1base36>6run9k6msejrlmmbguqwwwncdnle91g</sha1base36>
+      <rel>2/25/VSmile.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Will Pretendo Support?</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>14</id>
+      <timestamp>2024-07-17T12:39:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Will Pretendo support is a meme mocking people saying "Will Pretendo support [Console]?". Someone might say "Will Pretendo support my Pringles Can?". [[File:VSmile.png|thumb]]"</comment>
+      <origin>14</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="tkgal6ot9v8b701q1ozurs8y64nb53n" xml:space="preserve">Will Pretendo support is a meme mocking people saying "Will Pretendo support [Console]?". Someone might say "Will Pretendo support my Pringles Can?".
+[[File:VSmile.png|thumb]]</text>
+      <sha1>tkgal6ot9v8b701q1ozurs8y64nb53n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:SMVGC.png</title>
+    <ns>6</ns>
+    <id>13</id>
+    <revision>
+      <id>15</id>
+      <timestamp>2024-07-17T12:42:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>15</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="rn0exv268gedytrfwmw1qafpp7xkr6d" xml:space="preserve">Super Mario Violates The Geneva Conventions</text>
+      <sha1>rn0exv268gedytrfwmw1qafpp7xkr6d</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:42:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>SMVGC.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/1/1e/SMVGC.png</src>
+      <size>234475</size>
+      <sha1base36>g6p8mee4dfg6sybf2a8wg4obyt1kr04</sha1base36>
+      <rel>1/1e/SMVGC.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:SMTGS3AM.png</title>
+    <ns>6</ns>
+    <id>14</id>
+    <revision>
+      <id>16</id>
+      <timestamp>2024-07-17T12:43:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>16</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41" sha1="7ac4qoa3uhz1x93dajin0y6snyrsraj" xml:space="preserve">Super Mario Trapped in A GameStop At 3 AM</text>
+      <sha1>7ac4qoa3uhz1x93dajin0y6snyrsraj</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T12:43:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>SMTGS3AM.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/4/4f/SMTGS3AM.png</src>
+      <size>411316</size>
+      <sha1base36>rhyhe0h9slr2lufl3590pkh4fe1w7lw</sha1base36>
+      <rel>4/4f/SMTGS3AM.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Super Mario Violates the Geneva Conventions</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>17</id>
+      <timestamp>2024-07-17T12:43:33Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Super Mario Violates the Geneva Convention is a meme started by the user "Jack". [[File:SMVGC.png|thumb]] [[File:SMTGS3AM.png|thumb]]"</comment>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="133" sha1="5ioig9rcrghpbxy5qup28qkn1ntig89" xml:space="preserve">Super Mario Violates the Geneva Convention is a meme started by the user "Jack".
+[[File:SMVGC.png|thumb]]
+[[File:SMTGS3AM.png|thumb]]</text>
+      <sha1>5ioig9rcrghpbxy5qup28qkn1ntig89</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>17</parentid>
+      <timestamp>2024-07-23T23:36:48Z</timestamp>
+      <contributor>
+        <username>Rwrv</username>
+        <id>9</id>
+      </contributor>
+      <minor/>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="134" sha1="o2tx7y1tj3spb8i5jafklm6jot9gymx" xml:space="preserve">Super Mario Violates the Geneva Conventions is a meme started by the user "Jack".
+[[File:SMVGC.png|thumb]]
+[[File:SMTGS3AM.png|thumb]]</text>
+      <sha1>o2tx7y1tj3spb8i5jafklm6jot9gymx</sha1>
+    </revision>
+    <revision>
+      <id>87</id>
+      <parentid>82</parentid>
+      <timestamp>2024-07-23T23:38:07Z</timestamp>
+      <contributor>
+        <username>Rwrv</username>
+        <id>9</id>
+      </contributor>
+      <comment>New comments</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="broeoihrb11r0j6xai0jaug3fk7ncvx" xml:space="preserve">Super Mario Violates the Geneva Conventions is a meme started by the user "Jack".
+[[File:SMVGC.png|thumb]]
+[[File:SMTGS3AM.png|thumb]]
+
+== Comments ==
+Title is wrong
+&lt;br /&gt;-- [[User:Rwrv|Rwrv]] ([[User talk:Rwrv|talk]]) 23:38, July 23, 2024 (UTC)</text>
+      <sha1>broeoihrb11r0j6xai0jaug3fk7ncvx</sha1>
+    </revision>
+    <revision>
+      <id>102</id>
+      <parentid>87</parentid>
+      <timestamp>2024-07-23T23:46:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[Super Mario Violates the Geneva Convention]] to [[Super Mario Violates the Geneva Conventions]]</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="broeoihrb11r0j6xai0jaug3fk7ncvx" xml:space="preserve">Super Mario Violates the Geneva Conventions is a meme started by the user "Jack".
+[[File:SMVGC.png|thumb]]
+[[File:SMTGS3AM.png|thumb]]
+
+== Comments ==
+Title is wrong
+&lt;br /&gt;-- [[User:Rwrv|Rwrv]] ([[User talk:Rwrv|talk]]) 23:38, July 23, 2024 (UTC)</text>
+      <sha1>broeoihrb11r0j6xai0jaug3fk7ncvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tomatoes</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>18</id>
+      <timestamp>2024-07-17T12:45:17Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Tomatoing is a way of Booing a post in the Pretendo Discord. It was created by the user "starberrii" under the alias of KM."</comment>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="123" sha1="sleke1bs8t20pcjb29oxoijvh173wv1" xml:space="preserve">Tomatoing is a way of Booing a post in the Pretendo Discord. It was created by the user "starberrii" under the alias of KM.</text>
+      <sha1>sleke1bs8t20pcjb29oxoijvh173wv1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rules</title>
+    <ns>0</ns>
+    <id>17</id>
+    <revision>
+      <id>19</id>
+      <timestamp>2024-07-17T12:49:32Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Welcome to the Pretendo Brainrot Wiki. By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules. 1. NSFW is not allowed. Yes, this means Spongebob Boing too. 2. A meme must be used at least 1 time by 2 users. 3. Memes must have been created in the Pretendo discord server. If they weren't, that page will be deleted! Rules may update at any time. Please check them before making a new page."</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="b97ak8djsyeammdcccqbq0e5tlh9ayq" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. Yes, this means Spongebob Boing too.
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server. If they weren't, that page will be deleted!
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>b97ak8djsyeammdcccqbq0e5tlh9ayq</sha1>
+    </revision>
+    <revision>
+      <id>20</id>
+      <parentid>19</parentid>
+      <timestamp>2024-07-17T12:49:44Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Rules]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="b97ak8djsyeammdcccqbq0e5tlh9ayq" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. Yes, this means Spongebob Boing too.
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server. If they weren't, that page will be deleted!
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>b97ak8djsyeammdcccqbq0e5tlh9ayq</sha1>
+    </revision>
+    <revision>
+      <id>22</id>
+      <parentid>20</parentid>
+      <timestamp>2024-07-17T13:02:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="440" sha1="aiy0nggo6mn1kn0lqkt1tls4phuqvdj" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. Yes, this means Spongebob Boing too.
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>aiy0nggo6mn1kn0lqkt1tls4phuqvdj</sha1>
+    </revision>
+    <revision>
+      <id>41</id>
+      <parentid>22</parentid>
+      <timestamp>2024-07-17T22:30:41Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="hh05xvq5zu6ddyf0ql298xi8v5epv2i" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. .
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>hh05xvq5zu6ddyf0ql298xi8v5epv2i</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>41</parentid>
+      <timestamp>2024-07-21T13:10:05Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="482" sha1="mo8f42i5tjzzqh93sonxey9tlf2zdct" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. .
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!
+4. Memes can only be posted here if they happened between 6:00-9:00 PM CST.  Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>mo8f42i5tjzzqh93sonxey9tlf2zdct</sha1>
+    </revision>
+    <revision>
+      <id>80</id>
+      <parentid>55</parentid>
+      <timestamp>2024-07-23T23:35:54Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="foz8bcdsqr5xtk2sekm4pqqmb7ensqk" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. .
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!  Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>foz8bcdsqr5xtk2sekm4pqqmb7ensqk</sha1>
+    </revision>
+    <revision>
+      <id>119</id>
+      <parentid>80</parentid>
+      <timestamp>2024-07-24T00:08:31Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="1n22t7jklli9o05eyzq5baci0gkj2xt" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+1. NSFW is not allowed. .
+2. A meme must be used at least 1 time by 2 users.
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted! 4. Please check if a page exists before making one! If it does, your page will be locked, or worse, deleted! Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>1n22t7jklli9o05eyzq5baci0gkj2xt</sha1>
+    </revision>
+    <revision>
+      <id>120</id>
+      <parentid>119</parentid>
+      <timestamp>2024-07-24T00:09:16Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="521" sha1="p40kydpif9cdm8kt7s93e1i2y3tgwqw" xml:space="preserve">Welcome to the Pretendo Brainrot Wiki.
+
+By creating a page, commenting, or performing any action on this Wiki, you agree to these Rules.
+
+1. NSFW is not allowed. .
+
+2. A meme must be used at least 1 time by 2 users.
+
+3. Memes must have been created in the Pretendo discord server or in Juxt. If they weren't, that page will be deleted!
+
+4. Please check if a page exists before making one! If it does, your page will be locked, or worse, deleted! 
+
+Rules may update at any time. Please check them before making a new page.</text>
+      <sha1>p40kydpif9cdm8kt7s93e1i2y3tgwqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Pretendo Brainrot Wiki.png</title>
+    <ns>6</ns>
+    <id>18</id>
+    <revision>
+      <id>23</id>
+      <timestamp>2024-07-17T13:09:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="5cn4dxqq2bkt8gj4kq58qqkqp8erqlg" xml:space="preserve">Thanks Feverfew for making this logo for the Wiki! ^-^</text>
+      <sha1>5cn4dxqq2bkt8gj4kq58qqkqp8erqlg</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T13:09:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Pretendo_Brainrot_Wiki.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/d/d7/Pretendo_Brainrot_Wiki.png</src>
+      <size>2780</size>
+      <sha1base36>o9t9kat4tlbde0yvhn1sclgphcdxxz9</sha1base36>
+      <rel>d/d7/Pretendo_Brainrot_Wiki.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Spongebob Boing</title>
+    <ns>0</ns>
+    <id>20</id>
+    <revision>
+      <id>42</id>
+      <timestamp>2024-07-17T22:32:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Spongebob Boing is a meme started by Jules."</comment>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="ag7f5qa81npr0hkblp26sphoeflvdh6" xml:space="preserve">Spongebob Boing is a meme started by Jules.</text>
+      <sha1>ag7f5qa81npr0hkblp26sphoeflvdh6</sha1>
+    </revision>
+    <revision>
+      <id>45</id>
+      <parentid>42</parentid>
+      <timestamp>2024-07-17T22:34:50Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>45</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="128" sha1="2uievc4pu31qhlu4xdrcsbhrnloxmto" xml:space="preserve">[[File:Spongebob Boing.png|thumb]]
+[[File:GIF Spongebob Boing.png|thumb]]
+Spongebob Boing is a meme started by Jules and Lenyet.</text>
+      <sha1>2uievc4pu31qhlu4xdrcsbhrnloxmto</sha1>
+    </revision>
+    <revision>
+      <id>47</id>
+      <parentid>45</parentid>
+      <timestamp>2024-07-17T22:38:04Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="7s2x680eswcwl66keldl3ccng99uyal" xml:space="preserve">[[File:Spongebob Boing.png|thumb]]
+[[File:GIF Spongebob Boing.png|thumb]]
+[[File:Spongebob Boing GIF 2.gif|thumb]]
+Spongebob Boing is a meme started by Jules and Lenyet.</text>
+      <sha1>7s2x680eswcwl66keldl3ccng99uyal</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Spongebob Boing.png</title>
+    <ns>6</ns>
+    <id>21</id>
+    <revision>
+      <id>43</id>
+      <timestamp>2024-07-17T22:33:47Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16" sha1="sv74k7oxg5h07b3zwfiuniwpn3rjxwk" xml:space="preserve">OG Post by Jules</text>
+      <sha1>sv74k7oxg5h07b3zwfiuniwpn3rjxwk</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:33:46Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Spongebob_Boing.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/8/82/Spongebob_Boing.png</src>
+      <size>30233</size>
+      <sha1base36>tmp918613qrrtztqr4zh3937m8m7zlz</sha1base36>
+      <rel>8/82/Spongebob_Boing.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:GIF Spongebob Boing.png</title>
+    <ns>6</ns>
+    <id>22</id>
+    <revision>
+      <id>44</id>
+      <timestamp>2024-07-17T22:34:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="70u01mqa230fwu1xvzat6086lci8b6v" xml:space="preserve">The Spongebob Boing gif</text>
+      <sha1>70u01mqa230fwu1xvzat6086lci8b6v</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:34:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>GIF_Spongebob_Boing.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/9c/GIF_Spongebob_Boing.png</src>
+      <size>110594</size>
+      <sha1base36>lx5q05blez89fbfjoe99ynzh1zl4cs0</sha1base36>
+      <rel>9/9c/GIF_Spongebob_Boing.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Spongebob Boing GIF 2.gif</title>
+    <ns>6</ns>
+    <id>23</id>
+    <revision>
+      <id>46</id>
+      <timestamp>2024-07-17T22:37:59Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13" sha1="adj980vi97xu8nrwtwkugcyq0u526av" xml:space="preserve">Credit: Dylan</text>
+      <sha1>adj980vi97xu8nrwtwkugcyq0u526av</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-17T22:37:59Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Spongebob_Boing_GIF_2.gif</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/93/Spongebob_Boing_GIF_2.gif</src>
+      <size>1501381</size>
+      <sha1base36>7ziiu7x5j1fobtr2w8juqeptl4ivoo0</sha1base36>
+      <rel>9/93/Spongebob_Boing_GIF_2.gif</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Talk:Main Page</title>
+    <ns>1</ns>
+    <id>24</id>
+    <revision>
+      <id>49</id>
+      <timestamp>2024-07-18T16:34:30Z</timestamp>
+      <contributor>
+        <username>Wolflink.dmg</username>
+        <id>6</id>
+      </contributor>
+      <comment>/* 🍅 */ new section</comment>
+      <origin>49</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="149" sha1="t3jelcup1wna9w5p947mgfnz6ssilag" xml:space="preserve">== 🍅 ==
+
+This emoji (🍅) was used in reactions. It was used to ''throw tomatoes'' at users, if they disliked it.
+
+I am unsure about who made it.</text>
+      <sha1>t3jelcup1wna9w5p947mgfnz6ssilag</sha1>
+    </revision>
+    <revision>
+      <id>50</id>
+      <parentid>49</parentid>
+      <timestamp>2024-07-18T16:37:35Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="ncqwdlz7fuprc6n2erbeg465hobgtyz" xml:space="preserve">== 🍅 ==
+
+This emoji (🍅) was used in reactions. It was used to ''throw tomatoes'' at users, if they disliked it.
+
+I am unsure about who made it.
+Hey! Tomatoes are already on the wiki. https://pretendobrainrot.miraheze.org/w/Tomatoes</text>
+      <sha1>ncqwdlz7fuprc6n2erbeg465hobgtyz</sha1>
+    </revision>
+    <revision>
+      <id>51</id>
+      <parentid>50</parentid>
+      <timestamp>2024-07-18T16:38:59Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="byomdyj1iuu8m76oxybaoreurq4yfuu" xml:space="preserve">== 🍅 ==
+
+This emoji (🍅) was used in reactions. It was used to ''throw tomatoes'' at users, if they disliked it.
+
+I am unsure about who made it.
+Hey! Tomatoes are already on the wiki. https://pretendobrainrot.miraheze.org/w/Tomatoes
+also idk how this talk page works so it will be locked</text>
+      <sha1>byomdyj1iuu8m76oxybaoreurq4yfuu</sha1>
+    </revision>
+    <revision>
+      <id>52</id>
+      <parentid>51</parentid>
+      <timestamp>2024-07-18T16:40:35Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Talk:Main Page]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="byomdyj1iuu8m76oxybaoreurq4yfuu" xml:space="preserve">== 🍅 ==
+
+This emoji (🍅) was used in reactions. It was used to ''throw tomatoes'' at users, if they disliked it.
+
+I am unsure about who made it.
+Hey! Tomatoes are already on the wiki. https://pretendobrainrot.miraheze.org/w/Tomatoes
+also idk how this talk page works so it will be locked</text>
+      <sha1>byomdyj1iuu8m76oxybaoreurq4yfuu</sha1>
+    </revision>
+    <revision>
+      <id>114</id>
+      <parentid>52</parentid>
+      <timestamp>2024-07-23T23:58:43Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Removed protection from "[[Talk:Main Page]]"</comment>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="byomdyj1iuu8m76oxybaoreurq4yfuu" xml:space="preserve">== 🍅 ==
+
+This emoji (🍅) was used in reactions. It was used to ''throw tomatoes'' at users, if they disliked it.
+
+I am unsure about who made it.
+Hey! Tomatoes are already on the wiki. https://pretendobrainrot.miraheze.org/w/Tomatoes
+also idk how this talk page works so it will be locked</text>
+      <sha1>byomdyj1iuu8m76oxybaoreurq4yfuu</sha1>
+    </revision>
+    <revision>
+      <id>115</id>
+      <parentid>114</parentid>
+      <timestamp>2024-07-23T23:58:53Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Blanked the page</comment>
+      <origin>115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>116</id>
+      <parentid>115</parentid>
+      <timestamp>2024-07-23T23:59:34Z</timestamp>
+      <contributor>
+        <username>Wolflink.dmg</username>
+        <id>6</id>
+      </contributor>
+      <comment>/* omfg */ new section</comment>
+      <origin>116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="bt8j5e23hgkf76xej22rpjrf0r41833" xml:space="preserve">== omfg ==
+
+YAYR UGYV FIDXUHCAL IJDSVPOLJAFDGBZLO CSJVFX MVCDS,JVF,M</text>
+      <sha1>bt8j5e23hgkf76xej22rpjrf0r41833</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>UserWiki:Wish13</title>
+    <ns>200</ns>
+    <id>25</id>
+    <revision>
+      <id>53</id>
+      <timestamp>2024-07-18T16:41:16Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>import user wiki</comment>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Wish13</title>
+    <ns>2</ns>
+    <id>26</id>
+    <revision>
+      <id>54</id>
+      <timestamp>2024-07-20T15:09:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "im the owner of this wiki and cool i think"</comment>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="tkbelhlg7zbfh9p885qhx18dfauojp8" xml:space="preserve">im the owner of this wiki and cool i think</text>
+      <sha1>tkbelhlg7zbfh9p885qhx18dfauojp8</sha1>
+    </revision>
+    <revision>
+      <id>111</id>
+      <parentid>54</parentid>
+      <timestamp>2024-07-23T23:53:20Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="075tx5b7frmk1z0lolgtgh65of1qee3" xml:space="preserve">im the owner of this wiki and cool i think
+
+hi this is for a guide !!</text>
+      <sha1>075tx5b7frmk1z0lolgtgh65of1qee3</sha1>
+    </revision>
+    <revision>
+      <id>112</id>
+      <parentid>111</parentid>
+      <timestamp>2024-07-23T23:53:54Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="tkbelhlg7zbfh9p885qhx18dfauojp8" xml:space="preserve">im the owner of this wiki and cool i think</text>
+      <sha1>tkbelhlg7zbfh9p885qhx18dfauojp8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Copyrights</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>56</id>
+      <timestamp>2024-07-21T13:14:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Pages are under [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA] unless noted. CC-BY-SA gives you freedoms to: Share — copy and redistribute the material in any medium or format for any purpose, even commercially. Adapt — remix, transform, and build upon the material for any purpose, even commercially. A licensor cannot revoke these freedoms as long as you follow the license terms. If you chose to Share or Adapt one of these pages, you must follow these gui..."</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1722" sha1="5pviesm4vuic8fr65tu4tqfpjxi2h0i" xml:space="preserve">Pages are under [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA] unless noted. CC-BY-SA gives you freedoms to:
+Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+A licensor cannot revoke these freedoms as long as you follow the license terms.
+If you chose to Share or Adapt one of these pages, you must follow these guidelines:
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+This page highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license [https://creativecommons.org/licenses/by-sa/4.0/legalcode.en here] before using the licensed material.</text>
+      <sha1>5pviesm4vuic8fr65tu4tqfpjxi2h0i</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2024-07-21T13:15:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Pretendo Brainrot:Copyrights]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1722" sha1="5pviesm4vuic8fr65tu4tqfpjxi2h0i" xml:space="preserve">Pages are under [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA] unless noted. CC-BY-SA gives you freedoms to:
+Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+A licensor cannot revoke these freedoms as long as you follow the license terms.
+If you chose to Share or Adapt one of these pages, you must follow these guidelines:
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+This page highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license [https://creativecommons.org/licenses/by-sa/4.0/legalcode.en here] before using the licensed material.</text>
+      <sha1>5pviesm4vuic8fr65tu4tqfpjxi2h0i</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>57</parentid>
+      <timestamp>2024-07-21T13:16:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[Pretendo Brainrot:Copyrights]] to [[Copyrights]]</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1722" sha1="5pviesm4vuic8fr65tu4tqfpjxi2h0i" xml:space="preserve">Pages are under [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA] unless noted. CC-BY-SA gives you freedoms to:
+Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+A licensor cannot revoke these freedoms as long as you follow the license terms.
+If you chose to Share or Adapt one of these pages, you must follow these guidelines:
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+This page highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license [https://creativecommons.org/licenses/by-sa/4.0/legalcode.en here] before using the licensed material.</text>
+      <sha1>5pviesm4vuic8fr65tu4tqfpjxi2h0i</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>58</parentid>
+      <timestamp>2024-07-21T13:17:53Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1754" sha1="q769in3wpoic2u8t1r23ytd07lglzpl" xml:space="preserve">Pages are under [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA] unless noted. This page only covers CC-BY-SA. CC-BY-SA gives you freedoms to:
+Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+A licensor cannot revoke these freedoms as long as you follow the license terms.
+If you chose to Share or Adapt one of these pages, you must follow these guidelines:
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+This page highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license [https://creativecommons.org/licenses/by-sa/4.0/legalcode.en here] before using the licensed material.</text>
+      <sha1>q769in3wpoic2u8t1r23ytd07lglzpl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pretendo Brainrot:Copyrights</title>
+    <ns>4</ns>
+    <id>28</id>
+    <redirect title="Copyrights" />
+    <revision>
+      <id>59</id>
+      <timestamp>2024-07-21T13:16:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Wish13 moved page [[Pretendo Brainrot:Copyrights]] to [[Copyrights]]</comment>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="bgf16b2f3p60houedpa4h3w5v4jwm8z" xml:space="preserve">#REDIRECT [[Copyrights]]</text>
+      <sha1>bgf16b2f3p60houedpa4h3w5v4jwm8z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Kirk.jpg</title>
+    <ns>6</ns>
+    <id>29</id>
+    <revision>
+      <id>62</id>
+      <timestamp>2024-07-23T20:09:20Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="3jmvjclehiapnpnj5cvcb4whqvxn4kk" xml:space="preserve">This is Kirk's main PFP</text>
+      <sha1>3jmvjclehiapnpnj5cvcb4whqvxn4kk</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:09:19Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Kirk.jpg</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/9b/Kirk.jpg</src>
+      <size>1153310</size>
+      <sha1base36>qzffvc6uk24i3264deocxzxfwtdgxg0</sha1base36>
+      <rel>9/9b/Kirk.jpg</rel>
+    </upload>
+  </page>
+  <page>
+    <title>User profile:Kirk</title>
+    <ns>202</ns>
+    <id>30</id>
+    <revision>
+      <id>63</id>
+      <timestamp>2024-07-23T20:09:36Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with " [[File:Kirk.jpg|thumb]]   Kirk is a user in the Pretendo Network Discord who is known for his IndyCar obsession and bullying trolls in pretendo-general."</comment>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v" xml:space="preserve">
+[[File:Kirk.jpg|thumb]]
+
+
+Kirk is a user in the Pretendo Network Discord who is known for his IndyCar obsession and bullying trolls in pretendo-general.</text>
+      <sha1>q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>63</parentid>
+      <timestamp>2024-07-23T20:26:30Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[Kirk]] to [[UserWiki:Kirk]] without leaving a redirect</comment>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v" xml:space="preserve">
+[[File:Kirk.jpg|thumb]]
+
+
+Kirk is a user in the Pretendo Network Discord who is known for his IndyCar obsession and bullying trolls in pretendo-general.</text>
+      <sha1>q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2024-07-23T20:27:01Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[UserWiki:Kirk]] to [[User profile:Kirk]]</comment>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v" xml:space="preserve">
+[[File:Kirk.jpg|thumb]]
+
+
+Kirk is a user in the Pretendo Network Discord who is known for his IndyCar obsession and bullying trolls in pretendo-general.</text>
+      <sha1>q0cf3fiz1lmhwbsssdpzxh0yjfaaq8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Bowser omelete.png</title>
+    <ns>6</ns>
+    <id>31</id>
+    <revision>
+      <id>64</id>
+      <timestamp>2024-07-23T20:21:58Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8" sha1="ondy1e430xyavlzbaa6xwefg663i8wb" xml:space="preserve">pretendo</text>
+      <sha1>ondy1e430xyavlzbaa6xwefg663i8wb</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:21:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowser_omelete.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/6/67/Bowser_omelete.png</src>
+      <size>14304</size>
+      <sha1base36>r1l4ayczeobenjyjzchc4kasawb3enb</sha1base36>
+      <rel>6/67/Bowser_omelete.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Image.png</title>
+    <ns>6</ns>
+    <id>32</id>
+    <revision>
+      <id>65</id>
+      <timestamp>2024-07-23T20:23:07Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16" sha1="ccnz3s9ruonpq9s86ptlodeqpuspodv" xml:space="preserve">omelete template</text>
+      <sha1>ccnz3s9ruonpq9s86ptlodeqpuspodv</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:23:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Image.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/3/34/Image.png</src>
+      <size>633481</size>
+      <sha1base36>f0i3c2pdfv5s5omtnk1gdo1r4s4r243</sha1base36>
+      <rel>3/34/Image.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:ImageOme.png</title>
+    <ns>6</ns>
+    <id>33</id>
+    <revision>
+      <id>66</id>
+      <timestamp>2024-07-23T20:23:39Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10" sha1="bb8lrwgjapaqc7ly1f1i3ziqyx7o2of" xml:space="preserve">omelete OG</text>
+      <sha1>bb8lrwgjapaqc7ly1f1i3ziqyx7o2of</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:23:38Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>ImageOme.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/c/c2/ImageOme.png</src>
+      <size>2743454</size>
+      <sha1base36>gjrx2h6dvzu3fotwych5yxa8rouiavb</sha1base36>
+      <rel>c/c2/ImageOme.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Bowser Omelete</title>
+    <ns>0</ns>
+    <id>34</id>
+    <revision>
+      <id>67</id>
+      <timestamp>2024-07-23T20:23:47Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "Bowser Omelete is a meme started by #2 twitter hater &amp; Wish. [[File:Image.png|thumb]] [[File:Bowser omelete.png|thumb]] [[File:ImageOme.png|thumb]]"</comment>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="147" sha1="4zww961xymqk7v2xs2zxry1p6ijpk4o" xml:space="preserve">Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]
+[[File:ImageOme.png|thumb]]</text>
+      <sha1>4zww961xymqk7v2xs2zxry1p6ijpk4o</sha1>
+    </revision>
+    <revision>
+      <id>69</id>
+      <parentid>67</parentid>
+      <timestamp>2024-07-23T20:24:40Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>69</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="g277m8loctbier8n5tyx5rvtczanp3f" xml:space="preserve">[[File:Bowser-3.png|thumb]]
+Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]
+[[File:ImageOme.png|thumb]]</text>
+      <sha1>g277m8loctbier8n5tyx5rvtczanp3f</sha1>
+    </revision>
+    <revision>
+      <id>74</id>
+      <parentid>69</parentid>
+      <timestamp>2024-07-23T20:41:52Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="s4p4n5iawa0ucrqpg4xh9ymm2g9zopk" xml:space="preserve">[[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]
+[[File:ImageOme.png|thumb]]</text>
+      <sha1>s4p4n5iawa0ucrqpg4xh9ymm2g9zopk</sha1>
+    </revision>
+    <revision>
+      <id>76</id>
+      <parentid>74</parentid>
+      <timestamp>2024-07-23T20:59:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="s4v4jdhuv98x8wop20ey9p4jfvpvlhf" xml:space="preserve">[[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]
+[[File:ImageOme.png|thumb]]</text>
+      <sha1>s4v4jdhuv98x8wop20ey9p4jfvpvlhf</sha1>
+    </revision>
+    <revision>
+      <id>77</id>
+      <parentid>76</parentid>
+      <timestamp>2024-07-23T21:16:13Z</timestamp>
+      <contributor>
+        <username>Lightdies07</username>
+        <id>8</id>
+      </contributor>
+      <minor/>
+      <comment>moved the og to the top</comment>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="233" sha1="agaomp6vei91zhg9k2fm0ebo6svhjfq" xml:space="preserve">[[File:ImageOme.png|thumb]][[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]</text>
+      <sha1>agaomp6vei91zhg9k2fm0ebo6svhjfq</sha1>
+    </revision>
+    <revision>
+      <id>85</id>
+      <parentid>77</parentid>
+      <timestamp>2024-07-23T23:37:27Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" sha1="tdn5q9cqxwedwx5vvd6effd8khvxkiy" xml:space="preserve">[[File:ImageOme.png|thumb]][[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+[[File:Bowser switch.png|thumb]]
+Bowser Omelete is a meme started by #2 twitter hater &amp; Wish.
+[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]</text>
+      <sha1>tdn5q9cqxwedwx5vvd6effd8khvxkiy</sha1>
+    </revision>
+    <revision>
+      <id>92</id>
+      <parentid>85</parentid>
+      <timestamp>2024-07-23T23:41:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="44tki3l31dofb2iwhp23f7ahe55w1by" xml:space="preserve">[[File:ImageOme.png|thumb]][[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+[[File:Bowser switch.png|thumb]]
+Bowser Omelet is a meme made by people such as #2 Twitter Hater, Wish, and multiple other users.
+
+The meme originally started out as Bowser holding an omelet, then a template was created and people started putting pictures of him in random places and games.[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]</text>
+      <sha1>44tki3l31dofb2iwhp23f7ahe55w1by</sha1>
+    </revision>
+    <revision>
+      <id>108</id>
+      <parentid>92</parentid>
+      <timestamp>2024-07-23T23:47:21Z</timestamp>
+      <contributor>
+        <username>Lightdies07</username>
+        <id>8</id>
+      </contributor>
+      <minor/>
+      <comment>Omelet -&gt; Omelette</comment>
+      <origin>108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="464" sha1="i8vot6yn37miuezv8pgis3waakally0" xml:space="preserve">[[File:ImageOme.png|thumb]][[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+[[File:Bowser switch.png|thumb]]
+Bowser Omelette is a meme made by people such as #2 Twitter Hater, Wish, and multiple other users.
+
+The meme originally started out as Bowser holding an omelet, then a template was created and people started putting pictures of him in random places and games.[[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]</text>
+      <sha1>i8vot6yn37miuezv8pgis3waakally0</sha1>
+    </revision>
+    <revision>
+      <id>128</id>
+      <parentid>108</parentid>
+      <timestamp>2024-07-24T00:22:13Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" sha1="a6hp5fc1kssprw7ihoq6rjcs9kafejo" xml:space="preserve">[[File:ImageOme.png|thumb]][[File:Bowser-3.png|thumb]]
+[[File:Aabowser.png|thumb]]
+[[File:BOWSER LAND.png|thumb]]
+[[File:Bowser switch.png|thumb]]
+Bowser Omelette is a meme made by people such as #2 Twitter Hater, Wish, and multiple other users.
+
+The meme originally started out as Bowser holding an omelet, then a template was created and people started putting pictures of him in random places and games.
+
+See more images [[Bowser Omelete Images|here!]][[File:Image.png|thumb]]
+[[File:Bowser omelete.png|thumb]]</text>
+      <sha1>a6hp5fc1kssprw7ihoq6rjcs9kafejo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Bowser-3.png</title>
+    <ns>6</ns>
+    <id>35</id>
+    <revision>
+      <id>68</id>
+      <timestamp>2024-07-23T20:24:35Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="cr8jnq8u0sqr5s5mip3kqqq9yvu8df0" xml:space="preserve">omelete too many !!</text>
+      <sha1>cr8jnq8u0sqr5s5mip3kqqq9yvu8df0</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:24:34Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowser-3.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/a/a9/Bowser-3.png</src>
+      <size>513193</size>
+      <sha1base36>28qjk65yt6x0v0a3o2hackbfijzeuji</sha1base36>
+      <rel>a/a9/Bowser-3.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>UserWiki:Kirk</title>
+    <ns>200</ns>
+    <id>36</id>
+    <redirect title="User profile:Kirk" />
+    <revision>
+      <id>72</id>
+      <timestamp>2024-07-23T20:27:01Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Wish13 moved page [[UserWiki:Kirk]] to [[User profile:Kirk]]</comment>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="47s01p2r43qzlswbq7e1x02jn1ltkun" xml:space="preserve">#REDIRECT [[User profile:Kirk]]</text>
+      <sha1>47s01p2r43qzlswbq7e1x02jn1ltkun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Aabowser.png</title>
+    <ns>6</ns>
+    <id>37</id>
+    <revision>
+      <id>73</id>
+      <timestamp>2024-07-23T20:41:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="nspz0e9ih25b453majs6qzbdi0rxhka" xml:space="preserve">aa bowser omelete</text>
+      <sha1>nspz0e9ih25b453majs6qzbdi0rxhka</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:41:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Aabowser.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/7/7e/Aabowser.png</src>
+      <size>10249178</size>
+      <sha1base36>cdei5z9k1onnnf08nj6xwttxekdsr29</sha1base36>
+      <rel>7/7e/Aabowser.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:BOWSER LAND.png</title>
+    <ns>6</ns>
+    <id>38</id>
+    <revision>
+      <id>75</id>
+      <timestamp>2024-07-23T20:58:58Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14" sha1="1tyl016b4ub8kn0s67psfedo142b971" xml:space="preserve">bowser land :3</text>
+      <sha1>1tyl016b4ub8kn0s67psfedo142b971</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T20:58:58Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>BOWSER_LAND.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/0/03/BOWSER_LAND.png</src>
+      <size>1114146</size>
+      <sha1base36>qwxpfhevm8bc7dx6ak17ybiayxvc72f</sha1base36>
+      <rel>0/03/BOWSER_LAND.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>User profile talk:Kirk</title>
+    <ns>203</ns>
+    <id>39</id>
+    <revision>
+      <id>78</id>
+      <timestamp>2024-07-23T23:34:29Z</timestamp>
+      <contributor>
+        <ip>70.45.55.7</ip>
+      </contributor>
+      <comment>Created page with "this guy is a big pp &gt;:("</comment>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="odtp1k81lioceyy227452uoq6n46z5d" xml:space="preserve">this guy is a big pp &gt;:(</text>
+      <sha1>odtp1k81lioceyy227452uoq6n46z5d</sha1>
+    </revision>
+    <revision>
+      <id>79</id>
+      <parentid>78</parentid>
+      <timestamp>2024-07-23T23:34:41Z</timestamp>
+      <contributor>
+        <ip>70.45.55.7</ip>
+      </contributor>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="7cdxo8mnx9wo5c17x12jyprwyj3ng31" xml:space="preserve">this guy is a big bad boy &gt;:(</text>
+      <sha1>7cdxo8mnx9wo5c17x12jyprwyj3ng31</sha1>
+    </revision>
+    <revision>
+      <id>81</id>
+      <parentid>79</parentid>
+      <timestamp>2024-07-23T23:36:43Z</timestamp>
+      <contributor>
+        <ip>70.45.55.7</ip>
+      </contributor>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="kyxzcrpa6kmp2nplmo98qke0o4f7c5x" xml:space="preserve">this guy is a big bad boy &gt;:(
+
+haii</text>
+      <sha1>kyxzcrpa6kmp2nplmo98qke0o4f7c5x</sha1>
+    </revision>
+    <revision>
+      <id>83</id>
+      <parentid>81</parentid>
+      <timestamp>2024-07-23T23:37:17Z</timestamp>
+      <contributor>
+        <ip>70.45.55.7</ip>
+      </contributor>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="142" sha1="hvfen0k6bjmf121rsoon3hxg9x92zon" xml:space="preserve">this guy is a big bad boy &gt;:(
+
+he has done very rude things to someone but i cant remember who because hes a idiot and i make sure he die 24/7</text>
+      <sha1>hvfen0k6bjmf121rsoon3hxg9x92zon</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>83</parentid>
+      <timestamp>2024-07-23T23:37:55Z</timestamp>
+      <contributor>
+        <ip>70.45.55.7</ip>
+      </contributor>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="rsmv2fmq2u1w64gbd5r329zz7vuv149" xml:space="preserve">this guy is a big bad boy &gt;:(
+
+he has done very rude things to someone but i cant remember who because hes a idiot and i make sure he die 24/7
+
+tomato boy</text>
+      <sha1>rsmv2fmq2u1w64gbd5r329zz7vuv149</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Bowser switch.png</title>
+    <ns>6</ns>
+    <id>40</id>
+    <revision>
+      <id>84</id>
+      <timestamp>2024-07-23T23:37:22Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61" sha1="czyuamvmrx3fzjsetgihg043xinvpm7" xml:space="preserve">credit to Progamer_70, #2 twitter hater, kirk, Wish, and nate</text>
+      <sha1>czyuamvmrx3fzjsetgihg043xinvpm7</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T23:37:21Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowser_switch.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/7/79/Bowser_switch.png</src>
+      <size>3211133</size>
+      <sha1base36>bd0qm6s0h7xfhxclvqad3yhgojxz4ud</sha1base36>
+      <rel>7/79/Bowser_switch.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>User:Wolflink.dmg</title>
+    <ns>2</ns>
+    <id>41</id>
+    <revision>
+      <id>88</id>
+      <timestamp>2024-07-23T23:38:47Z</timestamp>
+      <contributor>
+        <username>Wolflink.dmg</username>
+        <id>6</id>
+      </contributor>
+      <comment>create user page</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Nate's rendition .jpg</title>
+    <ns>6</ns>
+    <id>42</id>
+    <revision>
+      <id>89</id>
+      <timestamp>2024-07-23T23:38:52Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="6gxdq628xo8bpjxf1ze3q39z3wxvsvw" xml:space="preserve">Nate's Bowser console</text>
+      <sha1>6gxdq628xo8bpjxf1ze3q39z3wxvsvw</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T23:38:52Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Nate's_rendition_.jpg</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/5/53/Nate%27s_rendition_.jpg</src>
+      <size>541411</size>
+      <sha1base36>92ra3usmayxu3jvokv7nuvwv7xk8vhp</sha1base36>
+      <rel>5/53/Nate's_rendition_.jpg</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Bowser Omelette</title>
+    <ns>0</ns>
+    <id>43</id>
+    <revision>
+      <id>90</id>
+      <timestamp>2024-07-23T23:39:09Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "[[File:Nate's rendition .jpg|thumb]]    Bowser Omelette is a meme made by people such as Kirk, Nate, and multiple other users.   The meme originally started out as Bowser holding an omelette, then a template was created and people started putting pictures of him in random places and games."</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" sha1="ahf559kahmgx8193b8ycl8yxfxsku3y" xml:space="preserve">[[File:Nate's rendition .jpg|thumb]]
+
+
+
+Bowser Omelette is a meme made by people such as Kirk, Nate, and multiple other users.
+
+
+The meme originally started out as Bowser holding an omelette, then a template was created and people started putting pictures of him in random places and games.</text>
+      <sha1>ahf559kahmgx8193b8ycl8yxfxsku3y</sha1>
+    </revision>
+    <revision>
+      <id>93</id>
+      <parentid>90</parentid>
+      <timestamp>2024-07-23T23:41:37Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[Bowser Omelette]]" ([Edit=Allow only administrators] (indefinite) [Move=Allow only administrators] (indefinite))</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" sha1="ahf559kahmgx8193b8ycl8yxfxsku3y" xml:space="preserve">[[File:Nate's rendition .jpg|thumb]]
+
+
+
+Bowser Omelette is a meme made by people such as Kirk, Nate, and multiple other users.
+
+
+The meme originally started out as Bowser holding an omelette, then a template was created and people started putting pictures of him in random places and games.</text>
+      <sha1>ahf559kahmgx8193b8ycl8yxfxsku3y</sha1>
+    </revision>
+    <revision>
+      <id>95</id>
+      <parentid>93</parentid>
+      <timestamp>2024-07-23T23:42:06Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="8oyimxfaznsnrty2lv1xfjouvyz9ydt" xml:space="preserve">[[File:Nate's rendition .jpg|thumb]]
+
+this page has been moved to [[Bowser Omelete]]
+
+- Wish</text>
+      <sha1>8oyimxfaznsnrty2lv1xfjouvyz9ydt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Leynet</title>
+    <ns>2</ns>
+    <id>44</id>
+    <revision>
+      <id>94</id>
+      <timestamp>2024-07-23T23:41:48Z</timestamp>
+      <contributor>
+        <username>Wolflink.dmg</username>
+        <id>6</id>
+      </contributor>
+      <comment>Created page with "funny guy"</comment>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9" sha1="tux4ax7fonkjo72l75herl5e5fbdnlj" xml:space="preserve">funny guy</text>
+      <sha1>tux4ax7fonkjo72l75herl5e5fbdnlj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Nf64.jpg</title>
+    <ns>6</ns>
+    <id>45</id>
+    <revision>
+      <id>96</id>
+      <timestamp>2024-07-23T23:43:16Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="7j9rkgemhb8kwfeassd7br2w3rc7sca" xml:space="preserve">Profile picture of Nintendofan64</text>
+      <sha1>7j9rkgemhb8kwfeassd7br2w3rc7sca</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T23:43:15Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Nf64.jpg</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/3/32/Nf64.jpg</src>
+      <size>69948</size>
+      <sha1base36>51ixw6e6c4bhf8oztekaqi178ahgslb</sha1base36>
+      <rel>3/32/Nf64.jpg</rel>
+    </upload>
+  </page>
+  <page>
+    <title>User profile:Nintendofan64</title>
+    <ns>202</ns>
+    <id>46</id>
+    <revision>
+      <id>97</id>
+      <timestamp>2024-07-23T23:43:32Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "[[File:Nf64.jpg|thumb]]   Nintendofan64 is one of the popular users of the Pretendo Network server.    His profile picture is his Mii holding an Uzi in what appears to be a Tomodachi Life mod."</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="evfomkxxxy4uu8vmy39tehpx7os64kq" xml:space="preserve">[[File:Nf64.jpg|thumb]]
+
+
+Nintendofan64 is one of the popular users of the Pretendo Network server.
+
+
+
+His profile picture is his Mii holding an Uzi in what appears to be a Tomodachi Life mod.</text>
+      <sha1>evfomkxxxy4uu8vmy39tehpx7os64kq</sha1>
+    </revision>
+    <revision>
+      <id>99</id>
+      <parentid>97</parentid>
+      <timestamp>2024-07-23T23:45:10Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[Nintendofan64]] to [[User profile:Nintendofan64]]</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="evfomkxxxy4uu8vmy39tehpx7os64kq" xml:space="preserve">[[File:Nf64.jpg|thumb]]
+
+
+Nintendofan64 is one of the popular users of the Pretendo Network server.
+
+
+
+His profile picture is his Mii holding an Uzi in what appears to be a Tomodachi Life mod.</text>
+      <sha1>evfomkxxxy4uu8vmy39tehpx7os64kq</sha1>
+    </revision>
+    <revision>
+      <id>101</id>
+      <parentid>99</parentid>
+      <timestamp>2024-07-23T23:45:47Z</timestamp>
+      <contributor>
+        <username>Nintendofan64</username>
+        <id>10</id>
+      </contributor>
+      <minor/>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="guu7c92gq7egfs53ezkbfrncjkl6zce" xml:space="preserve">[[File:Nf64.jpg|thumb]]
+
+
+Nintendofan64 is one of the popular users of the Pretendo Network server.
+
+
+
+His profile picture is his Mii holding an glock in what appears to be a Tomodachi Life mod.</text>
+      <sha1>guu7c92gq7egfs53ezkbfrncjkl6zce</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Super Mario Violates the Geneva Conventions</title>
+    <ns>1</ns>
+    <id>47</id>
+    <revision>
+      <id>98</id>
+      <timestamp>2024-07-23T23:44:37Z</timestamp>
+      <contributor>
+        <username>Wolflink.dmg</username>
+        <id>6</id>
+      </contributor>
+      <comment>Created page with "hiiiii"</comment>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="43iqxgxzt81cajbve4uxvb0q1ks4e4h" xml:space="preserve">hiiiii</text>
+      <sha1>43iqxgxzt81cajbve4uxvb0q1ks4e4h</sha1>
+    </revision>
+    <revision>
+      <id>104</id>
+      <parentid>98</parentid>
+      <timestamp>2024-07-23T23:46:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Wish13 moved page [[Talk:Super Mario Violates the Geneva Convention]] to [[Talk:Super Mario Violates the Geneva Conventions]]</comment>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="43iqxgxzt81cajbve4uxvb0q1ks4e4h" xml:space="preserve">hiiiii</text>
+      <sha1>43iqxgxzt81cajbve4uxvb0q1ks4e4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nintendofan64</title>
+    <ns>0</ns>
+    <id>48</id>
+    <redirect title="User profile:Nintendofan64" />
+    <revision>
+      <id>100</id>
+      <timestamp>2024-07-23T23:45:10Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Wish13 moved page [[Nintendofan64]] to [[User profile:Nintendofan64]]</comment>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="5nvdplqabsrgp9eeihbrtrg6ma78ts8" xml:space="preserve">#REDIRECT [[User profile:Nintendofan64]]</text>
+      <sha1>5nvdplqabsrgp9eeihbrtrg6ma78ts8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Super Mario Violates the Geneva Convention</title>
+    <ns>0</ns>
+    <id>49</id>
+    <redirect title="Super Mario Violates the Geneva Conventions" />
+    <revision>
+      <id>103</id>
+      <timestamp>2024-07-23T23:46:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Wish13 moved page [[Super Mario Violates the Geneva Convention]] to [[Super Mario Violates the Geneva Conventions]]</comment>
+      <origin>103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="rwzmowku3ld2wrcqkc35dtg7x10dldp" xml:space="preserve">#REDIRECT [[Super Mario Violates the Geneva Conventions]]</text>
+      <sha1>rwzmowku3ld2wrcqkc35dtg7x10dldp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Super Mario Violates the Geneva Convention</title>
+    <ns>1</ns>
+    <id>50</id>
+    <redirect title="Talk:Super Mario Violates the Geneva Conventions" />
+    <revision>
+      <id>105</id>
+      <timestamp>2024-07-23T23:46:08Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Wish13 moved page [[Talk:Super Mario Violates the Geneva Convention]] to [[Talk:Super Mario Violates the Geneva Conventions]]</comment>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="emsiou85uov3wsauw166ggz0ai4gaio" xml:space="preserve">#REDIRECT [[Talk:Super Mario Violates the Geneva Conventions]]</text>
+      <sha1>emsiou85uov3wsauw166ggz0ai4gaio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>UserWiki:Nintendofan64</title>
+    <ns>200</ns>
+    <id>51</id>
+    <revision>
+      <id>106</id>
+      <timestamp>2024-07-23T23:46:25Z</timestamp>
+      <contributor>
+        <username>Nintendofan64</username>
+        <id>10</id>
+      </contributor>
+      <comment>import user wiki</comment>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Bowser lost world.png</title>
+    <ns>6</ns>
+    <id>52</id>
+    <revision>
+      <id>107</id>
+      <timestamp>2024-07-23T23:47:20Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="t3yyxeqxtbnlkrb9d31d0rr7ea5oxep" xml:space="preserve">Bowser's Lost World 3DS</text>
+      <sha1>t3yyxeqxtbnlkrb9d31d0rr7ea5oxep</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T23:47:20Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowser_lost_world.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/7/73/Bowser_lost_world.png</src>
+      <size>450195</size>
+      <sha1base36>3xxaysdzupjq6730unyi8i9chmbqa9w</sha1base36>
+      <rel>7/73/Bowser_lost_world.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Spongebob dies.jpg</title>
+    <ns>6</ns>
+    <id>53</id>
+    <revision>
+      <id>109</id>
+      <timestamp>2024-07-23T23:50:19Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <origin>109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="0grfgo0dlmded5nb11mfs74wxuxu3kb" xml:space="preserve">A frame from his murder</text>
+      <sha1>0grfgo0dlmded5nb11mfs74wxuxu3kb</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-23T23:50:18Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Spongebob_dies.jpg</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/4/44/Spongebob_dies.jpg</src>
+      <size>548563</size>
+      <sha1base36>t2pt705rck4p8qb868touc8otxxavxh</sha1base36>
+      <rel>4/44/Spongebob_dies.jpg</rel>
+    </upload>
+  </page>
+  <page>
+    <title>Death of SpongeBob Boing</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>110</id>
+      <timestamp>2024-07-23T23:50:35Z</timestamp>
+      <contributor>
+        <username>Kirk904</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with "[[File:Spongebob dies.jpg|thumb]]    On July 14th, 2024, Kirk uploaded a picture of him holding a picture of SpongeBob Boing titled "HES IN MY HOUSE".   Five minutes later, he uploaded a video of him ripping up the SpongeBob picture and SpongeBob screaming, canonically killing him."</comment>
+      <origin>110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="ouiqlbh1xttft2hw35cenpzcrfneeli" xml:space="preserve">[[File:Spongebob dies.jpg|thumb]]
+
+
+
+On July 14th, 2024, Kirk uploaded a picture of him holding a picture of SpongeBob Boing titled "HES IN MY HOUSE". 
+
+Five minutes later, he uploaded a video of him ripping up the SpongeBob picture and SpongeBob screaming, canonically killing him.</text>
+      <sha1>ouiqlbh1xttft2hw35cenpzcrfneeli</sha1>
+    </revision>
+    <revision>
+      <id>117</id>
+      <parentid>110</parentid>
+      <timestamp>2024-07-24T00:02:58Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="j1635mylgoujc5htukgvsj44hqkhio1" xml:space="preserve"> ⓘ This page has been marked as satirical by an admin.
+[[File:Spongebob dies.jpg|thumb]]
+
+
+
+On July 14th, 2024, Kirk uploaded a picture of him holding a picture of SpongeBob Boing titled "HES IN MY HOUSE". 
+
+Five minutes later, he uploaded a video of him ripping up the SpongeBob picture and SpongeBob screaming, canonically killing him.</text>
+      <sha1>j1635mylgoujc5htukgvsj44hqkhio1</sha1>
+    </revision>
+    <revision>
+      <id>118</id>
+      <parentid>117</parentid>
+      <timestamp>2024-07-24T00:03:29Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="mb87ssp2qlaqmih86ryvppchwzmr47s" xml:space="preserve"> ⓘ This page has been marked as satirical by an admin.
+[[File:Spongebob dies.jpg|thumb]]
+
+
+
+On July 14th, 2024, Kirk uploaded a picture of him holding a picture of SpongeBob Boing titled "HES IN MY HOUSE". 
+
+Five minutes later, he uploaded a video of him ripping up the SpongeBob picture and SpongeBob screaming, killing him.</text>
+      <sha1>mb87ssp2qlaqmih86ryvppchwzmr47s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bowser Omelete Images</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>121</id>
+      <timestamp>2024-07-24T00:18:16Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "This page is page 2 of images from [[Bowser Omelete]]."</comment>
+      <origin>121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="14if1tprxvuwfh1ymztxal3h0nkdcyu" xml:space="preserve">This page is page 2 of images from [[Bowser Omelete]].</text>
+      <sha1>14if1tprxvuwfh1ymztxal3h0nkdcyu</sha1>
+    </revision>
+    <revision>
+      <id>123</id>
+      <parentid>121</parentid>
+      <timestamp>2024-07-24T00:19:42Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="88" sha1="gsmsgqv2agyb33jqhxjyvq0erspt6bz" xml:space="preserve">[[File:Bowser cooking.png|thumb]]
+This page is page 2 of images from [[Bowser Omelete]].</text>
+      <sha1>gsmsgqv2agyb33jqhxjyvq0erspt6bz</sha1>
+    </revision>
+    <revision>
+      <id>127</id>
+      <parentid>123</parentid>
+      <timestamp>2024-07-24T00:21:34Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="fdinx9qgj5ir75kyy1f8tinstfdpcxf" xml:space="preserve">[[File:Bowser cooking.png|thumb]]
+[[File:Bowsertoon 1.png|thumb]]
+[[File:Bowsertoon 2.png|thumb]]
+[[File:Bowsertoon 3.png|thumb]]
+This page is page 2 of images from [[Bowser Omelete]].</text>
+      <sha1>fdinx9qgj5ir75kyy1f8tinstfdpcxf</sha1>
+    </revision>
+    <revision>
+      <id>131</id>
+      <parentid>127</parentid>
+      <timestamp>2024-07-24T00:30:01Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="kski40tzur4vcptcv2pvmsstk6p5ygg" xml:space="preserve">[[File:Bowser cooking.png|thumb]]
+[[File:Bowsertoon 1.png|thumb]]
+[[File:Bowsertoon 2.png|thumb]]
+[[File:Bowsertoon 3.png|thumb]]
+[[File:Omelet of war.png|thumb]]
+This page is page 2 of images from [[Bowser Omelete]].</text>
+      <sha1>kski40tzur4vcptcv2pvmsstk6p5ygg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Bowser cooking.png</title>
+    <ns>6</ns>
+    <id>56</id>
+    <revision>
+      <id>122</id>
+      <timestamp>2024-07-24T00:19:35Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="659y4n5vwsxqiy409ax1rsuzak47oa9" xml:space="preserve">idk image 2 or something</text>
+      <sha1>659y4n5vwsxqiy409ax1rsuzak47oa9</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:19:34Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowser_cooking.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/8/8d/Bowser_cooking.png</src>
+      <size>3237008</size>
+      <sha1base36>igpvos8ilqpuo37m0mdu3974gg3tu14</sha1base36>
+      <rel>8/8d/Bowser_cooking.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Bowsertoon 1.png</title>
+    <ns>6</ns>
+    <id>57</id>
+    <revision>
+      <id>124</id>
+      <timestamp>2024-07-24T00:20:30Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10" sha1="llk93bxa7peryzgv7j9xzbwtxg54wlb" xml:space="preserve">Bowsertoon</text>
+      <sha1>llk93bxa7peryzgv7j9xzbwtxg54wlb</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:20:30Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowsertoon_1.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/3/3b/Bowsertoon_1.png</src>
+      <size>505115</size>
+      <sha1base36>gmtroro9gmr4ejglvm2r3zf8rygoehq</sha1base36>
+      <rel>3/3b/Bowsertoon_1.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Bowsertoon 2.png</title>
+    <ns>6</ns>
+    <id>58</id>
+    <revision>
+      <id>125</id>
+      <timestamp>2024-07-24T00:20:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12" sha1="qyiavdb629gffj9eqc82bgu75olak7j" xml:space="preserve">bowsertoon 2</text>
+      <sha1>qyiavdb629gffj9eqc82bgu75olak7j</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:20:57Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowsertoon_2.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/9/9f/Bowsertoon_2.png</src>
+      <size>564480</size>
+      <sha1base36>ozpsw05v1ybki8r1f6o9bvixs4gmyzx</sha1base36>
+      <rel>9/9f/Bowsertoon_2.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Bowsertoon 3.png</title>
+    <ns>6</ns>
+    <id>59</id>
+    <revision>
+      <id>126</id>
+      <timestamp>2024-07-24T00:21:26Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12" sha1="jmmaxy8uo42qn7on4abj17sgu9beiji" xml:space="preserve">bowsertoon 3</text>
+      <sha1>jmmaxy8uo42qn7on4abj17sgu9beiji</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:21:25Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Bowsertoon_3.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/c/ce/Bowsertoon_3.png</src>
+      <size>408068</size>
+      <sha1base36>ho7htipvs1ke3cpshqq1yffkm3rn8mh</sha1base36>
+      <rel>c/ce/Bowsertoon_3.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Omlette of WAR.png</title>
+    <ns>6</ns>
+    <id>60</id>
+    <revision>
+      <id>129</id>
+      <timestamp>2024-07-24T00:27:49Z</timestamp>
+      <contributor>
+        <username>Progamer 70</username>
+        <id>12</id>
+      </contributor>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="gnyat2ap3n1e4waagckonzcw0zfv25v" xml:space="preserve">Its an omlette of war</text>
+      <sha1>gnyat2ap3n1e4waagckonzcw0zfv25v</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:27:48Z</timestamp>
+      <contributor>
+        <username>Progamer 70</username>
+        <id>12</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Omlette_of_WAR.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/5/5a/Omlette_of_WAR.png</src>
+      <size>265705</size>
+      <sha1base36>hc8xydz48bw7oz0f0f4e94hp6fi9uuv</sha1base36>
+      <rel>5/5a/Omlette_of_WAR.png</rel>
+    </upload>
+  </page>
+  <page>
+    <title>File:Omelet of war.png</title>
+    <ns>6</ns>
+    <id>61</id>
+    <revision>
+      <id>130</id>
+      <timestamp>2024-07-24T00:29:56Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="odmz7eomxt8n2k35arq1ac38ny8y9kv" xml:space="preserve">bowser omelet is cool or something</text>
+      <sha1>odmz7eomxt8n2k35arq1ac38ny8y9kv</sha1>
+    </revision>
+    <upload>
+      <timestamp>2024-07-24T00:29:56Z</timestamp>
+      <contributor>
+        <username>Wish13</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Omelet_of_war.png</filename>
+      <src>https://static.miraheze.org/pretendobrainrotwiki/0/06/Omelet_of_war.png</src>
+      <size>376753</size>
+      <sha1base36>fre2aemj3hm8mm46rn8rxr7bud9dqp7</sha1base36>
+      <rel>0/06/Omelet_of_war.png</rel>
+    </upload>
+  </page>
+</mediawiki>
