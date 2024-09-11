@@ -1,3 +1,4 @@
+# New changes to Pretendo Brainrot wiki are no longer being logged here. 🫡
 ![image](https://github.com/user-attachments/assets/83122d03-16a3-4ed8-97de-978a0a26c1ba)
 <br>
 We are committed to making Pretendo Brainrot Wiki as open as possible.
